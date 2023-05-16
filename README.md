@@ -1,6 +1,6 @@
 # QuizWizz
 
-A React Application for hosting Quiz 
+A React Application for conducting Quiz 
 
-QuizWizz can be used by anyone to create fun quizzes and organize little competitons 
+QuizWizz can be used by anyone to give fun and interesting quizzes
 
